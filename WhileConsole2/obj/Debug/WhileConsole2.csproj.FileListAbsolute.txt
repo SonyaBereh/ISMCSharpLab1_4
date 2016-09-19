@@ -1,0 +1,12 @@
+D:\ISM\CSharp1\WhileConsole2\bin\Debug\WhileConsole2.exe.config
+D:\ISM\CSharp1\WhileConsole2\bin\Debug\WhileConsole2.exe
+D:\ISM\CSharp1\WhileConsole2\bin\Debug\WhileConsole2.pdb
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\App.g.cs
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2_MarkupCompile.cache
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2.g.resources
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2.Properties.Resources.resources
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2.exe
+D:\ISM\CSharp1\WhileConsole2\obj\Debug\WhileConsole2.pdb

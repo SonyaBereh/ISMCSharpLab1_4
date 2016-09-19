@@ -1,0 +1,8 @@
+D:\ISM\CSharp1\Task4WinForms\bin\Debug\Task4WinForms.exe.config
+D:\ISM\CSharp1\Task4WinForms\obj\Debug\Task4WinForms.Form1.resources
+D:\ISM\CSharp1\Task4WinForms\obj\Debug\Task4WinForms.Properties.Resources.resources
+D:\ISM\CSharp1\Task4WinForms\obj\Debug\Task4WinForms.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\Task4WinForms\bin\Debug\Task4WinForms.exe
+D:\ISM\CSharp1\Task4WinForms\bin\Debug\Task4WinForms.pdb
+D:\ISM\CSharp1\Task4WinForms\obj\Debug\Task4WinForms.exe
+D:\ISM\CSharp1\Task4WinForms\obj\Debug\Task4WinForms.pdb

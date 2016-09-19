@@ -1,0 +1,5 @@
+D:\ISM\CSharp1\ForConsole4\bin\Debug\ForConsole4.exe.config
+D:\ISM\CSharp1\ForConsole4\bin\Debug\ForConsole4.exe
+D:\ISM\CSharp1\ForConsole4\bin\Debug\ForConsole4.pdb
+D:\ISM\CSharp1\ForConsole4\obj\Debug\ForConsole4.exe
+D:\ISM\CSharp1\ForConsole4\obj\Debug\ForConsole4.pdb

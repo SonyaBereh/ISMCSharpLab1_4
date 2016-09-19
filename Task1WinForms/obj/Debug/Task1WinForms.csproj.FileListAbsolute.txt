@@ -1,0 +1,9 @@
+D:\ISM\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.exe.config
+D:\ISM\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.exe
+D:\ISM\CSharp1\Task1WinForms\bin\Debug\Task1WinForms.pdb
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.Form1.resources
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.Properties.Resources.resources
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.exe
+D:\ISM\CSharp1\Task1WinForms\obj\Debug\Task1WinForms.pdb

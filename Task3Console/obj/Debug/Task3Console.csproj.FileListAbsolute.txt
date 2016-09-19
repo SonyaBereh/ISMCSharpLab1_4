@@ -1,0 +1,5 @@
+D:\ISM\CSharp1\Task3Console\bin\Debug\Task3Console.exe.config
+D:\ISM\CSharp1\Task3Console\bin\Debug\Task3Console.exe
+D:\ISM\CSharp1\Task3Console\bin\Debug\Task3Console.pdb
+D:\ISM\CSharp1\Task3Console\obj\Debug\Task3Console.exe
+D:\ISM\CSharp1\Task3Console\obj\Debug\Task3Console.pdb

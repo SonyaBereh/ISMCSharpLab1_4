@@ -1,0 +1,6 @@
+D:\ISM\CSharp1\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+D:\ISM\CSharp1\DoWhileConsole1\obj\Debug\DoWhileConsole1.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+D:\ISM\CSharp1\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+D:\ISM\CSharp1\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+D:\ISM\CSharp1\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb

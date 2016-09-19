@@ -1,0 +1,6 @@
+D:\ISM\CSharp1\QuadEquationConsole\bin\Debug\QuadEquationConsole.exe.config
+D:\ISM\CSharp1\QuadEquationConsole\bin\Debug\QuadEquationConsole.exe
+D:\ISM\CSharp1\QuadEquationConsole\bin\Debug\QuadEquationConsole.pdb
+D:\ISM\CSharp1\QuadEquationConsole\obj\Debug\QuadEquationConsole.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\QuadEquationConsole\obj\Debug\QuadEquationConsole.exe
+D:\ISM\CSharp1\QuadEquationConsole\obj\Debug\QuadEquationConsole.pdb

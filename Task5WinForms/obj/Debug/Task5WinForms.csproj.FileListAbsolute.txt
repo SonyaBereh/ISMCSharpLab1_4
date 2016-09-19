@@ -1,0 +1,9 @@
+D:\ISM\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.exe.config
+D:\ISM\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.exe
+D:\ISM\CSharp1\Task5WinForms\bin\Debug\Task5WinForms.pdb
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.Form1.resources
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.Properties.Resources.resources
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.exe
+D:\ISM\CSharp1\Task5WinForms\obj\Debug\Task5WinForms.pdb

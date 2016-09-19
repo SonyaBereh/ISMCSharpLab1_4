@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\QuadEquationWPF\bin\Debug\QuadEquationWPF.exe.config
+D:\ISM\CSharp1\QuadEquationWPF\bin\Debug\QuadEquationWPF.exe
+D:\ISM\CSharp1\QuadEquationWPF\bin\Debug\QuadEquationWPF.pdb
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\App.g.cs
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF_MarkupCompile.cache
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.g.resources
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.Properties.Resources.resources
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.exe
+D:\ISM\CSharp1\QuadEquationWPF\obj\Debug\QuadEquationWPF.pdb

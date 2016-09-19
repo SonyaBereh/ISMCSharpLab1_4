@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\PiConsole\bin\Debug\PiConsole.exe.config
+D:\ISM\CSharp1\PiConsole\bin\Debug\PiConsole.exe
+D:\ISM\CSharp1\PiConsole\bin\Debug\PiConsole.pdb
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\PiConsole\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\PiConsole\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\PiConsole\obj\Debug\App.g.cs
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole_MarkupCompile.cache
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.g.resources
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.Properties.Resources.resources
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.exe
+D:\ISM\CSharp1\PiConsole\obj\Debug\PiConsole.pdb

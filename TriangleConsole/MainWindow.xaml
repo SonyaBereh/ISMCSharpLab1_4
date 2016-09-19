@@ -1,0 +1,23 @@
+﻿<Window x:Class="TriangleConsole.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Height="23" Margin="250,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb2" HorizontalAlignment="Left" Height="23" Margin="375,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb3" HorizontalAlignment="Left" Height="23" Margin="250,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb4" HorizontalAlignment="Left" Height="23" Margin="375,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb5" HorizontalAlignment="Left" Height="23" Margin="250,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb6" HorizontalAlignment="Left" Height="23" Margin="375,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb7" HorizontalAlignment="Left" Height="23" Margin="250,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb8" HorizontalAlignment="Left" Height="23" Margin="375,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Координаты вершины А; х, у" HorizontalAlignment="Left" Margin="25,28,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Координаты вершины В; х, у" HorizontalAlignment="Left" Margin="25,64,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Координаты вершины С; х, у" HorizontalAlignment="Left" Margin="25,100,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Координаты точки F; х, у" HorizontalAlignment="Left" Margin="25,136,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="Посчитать" HorizontalAlignment="Left" Margin="190,194,0,0" VerticalAlignment="Top" Width="142" FontSize="18" Click="Button_Click_1"/>
+        <Label x:Name="lb1" Content="Точка F лежит в треугольнике." HorizontalAlignment="Left" Margin="125,227,0,0" VerticalAlignment="Top" FontSize="18" Visibility="Hidden"/>
+        <Label x:Name="lb2" Content="Точка F не лежит в треугольнике." HorizontalAlignment="Left" Margin="115,266,0,0" VerticalAlignment="Top" FontSize="18" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

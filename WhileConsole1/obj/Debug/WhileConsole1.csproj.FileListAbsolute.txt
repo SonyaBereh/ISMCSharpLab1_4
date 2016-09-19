@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\WhileConsole1\bin\Debug\WhileConsole1.exe.config
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\App.g.cs
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1_MarkupCompile.cache
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.g.resources
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.Properties.Resources.resources
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\WhileConsole1\bin\Debug\WhileConsole1.exe
+D:\ISM\CSharp1\WhileConsole1\bin\Debug\WhileConsole1.pdb
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.exe
+D:\ISM\CSharp1\WhileConsole1\obj\Debug\WhileConsole1.pdb

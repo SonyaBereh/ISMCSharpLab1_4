@@ -1,0 +1,6 @@
+D:\ISM\CSharp1\Task1Console\bin\Debug\Task1Console.exe.config
+D:\ISM\CSharp1\Task1Console\bin\Debug\Task1Console.exe
+D:\ISM\CSharp1\Task1Console\bin\Debug\Task1Console.pdb
+D:\ISM\CSharp1\Task1Console\obj\Debug\Task1Console.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\Task1Console\obj\Debug\Task1Console.exe
+D:\ISM\CSharp1\Task1Console\obj\Debug\Task1Console.pdb

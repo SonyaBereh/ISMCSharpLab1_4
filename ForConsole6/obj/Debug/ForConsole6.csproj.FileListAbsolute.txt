@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\ForConsole6\bin\Debug\ForConsole6.exe.config
+D:\ISM\CSharp1\ForConsole6\bin\Debug\ForConsole6.exe
+D:\ISM\CSharp1\ForConsole6\bin\Debug\ForConsole6.pdb
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\ForConsole6\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\ForConsole6\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\ForConsole6\obj\Debug\App.g.cs
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6_MarkupCompile.cache
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.g.resources
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.Properties.Resources.resources
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.exe
+D:\ISM\CSharp1\ForConsole6\obj\Debug\ForConsole6.pdb

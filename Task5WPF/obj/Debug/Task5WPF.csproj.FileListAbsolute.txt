@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\Task5WPF\bin\Debug\Task5WPF.exe.config
+D:\ISM\CSharp1\Task5WPF\bin\Debug\Task5WPF.exe
+D:\ISM\CSharp1\Task5WPF\bin\Debug\Task5WPF.pdb
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\Task5WPF\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\Task5WPF\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\Task5WPF\obj\Debug\App.g.cs
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF_MarkupCompile.cache
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.g.resources
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.Properties.Resources.resources
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.exe
+D:\ISM\CSharp1\Task5WPF\obj\Debug\Task5WPF.pdb

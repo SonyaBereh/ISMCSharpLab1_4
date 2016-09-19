@@ -1,0 +1,13 @@
+D:\ISM\CSharp1\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+D:\ISM\CSharp1\TriangleConsole\bin\Debug\TriangleConsole.exe
+D:\ISM\CSharp1\TriangleConsole\bin\Debug\TriangleConsole.pdb
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.csprojResolveAssemblyReference.cache
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\MainWindow.baml
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\MainWindow.g.cs
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\App.g.cs
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole_MarkupCompile.cache
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.g.resources
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.Properties.Resources.resources
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.csproj.GenerateResource.Cache
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.exe
+D:\ISM\CSharp1\TriangleConsole\obj\Debug\TriangleConsole.pdb
